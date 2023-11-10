@@ -19,8 +19,7 @@ Tiivistelmä:
 
  -MSF (Metasploit Framework) on yhtä tehokas sekä käyttöjärjestelmän haavoittuvuuksia että kolmannen osapuolen sovelluksia vastaan. 
 
- -jokaisella hyökkääjällä on aina silmänsä auki etsiessään julkisia hyödyntämismenetelmiä 
-  ja muokkaamassa niitä tarpeidensa mukaisesti. 
+ 
 
   # Vapaavalintainen läpikävely:
 
