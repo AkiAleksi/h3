@@ -22,6 +22,19 @@ Tiivistelmä:
  -jokaisella hyökkääjällä on aina silmänsä auki etsiessään julkisia hyödyntämismenetelmiä 
   ja muokkaamassa niitä tarpeidensa mukaisesti. 
 
+  Vapaavalintainen läpikävely:
+
+  Katsoin: https://www.youtube.com/watch?v=Ul9WmUY49oM
+
+  
+
+  Nyrkeilysäkki. Eli piti etsiä kotitehtävä raportti. 
+  Jossa Kali ja Metasploitable on asennettu samaan verkkooon VirtualBoxiin,
+  sekä testaamalla osoitettu, että koneet on saatu irti Internetistä.
+
+  Kotitehtävä raportti:
+  https://kulonpaa.com/?p=87
+
   
   
 # a.)
