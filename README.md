@@ -210,8 +210,8 @@ Tehtävän anto oli hieman epäselvä. Päätin perehtyä tarkemmin meterpreteri
 Käytin sitä aikaisemmassa tehtävässä, mutta en tarkemmin pohtinut mikä se on.
 
 Meterpreter on Metasploit Frameworkin osa. Se tarjoaa tehokkaan, joustavan sekä modulaarisen tietokonehyökkäyksen työkalun.
-Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
-Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perinteisillä verkon valvontatyökaluilla.
+Se on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
+Se tukee myös kryptattua liikennettä, joka tekee siitä vaikean havaita perinteisillä verkon valvontatyökaluilla.
 Kun Metasploit-hyökkäys on onnistunut ja Meterpreter-kuorma on käynnistetty kohdekoneella.
 Se muodostaa sessioyhteyden, joka mahdollistaa hyökkääjälle laajan hallinnan kohteena olevasta järjestelmästä.
 Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, 
@@ -223,7 +223,7 @@ Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurat
 
 # Lähteet
 
-https://www.youtube.com/watch?v=Ul9WmUY49oM
+ https://www.youtube.com/watch?v=Ul9WmUY49oM
  https://kulonpaa.com/?p=87
  https://www.geeksforgeeks.org/how-to-install-metasploitable-2-in-virtualbox/
  https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
