@@ -67,5 +67,20 @@ Katsoin selaimesta.
 
 e.)
 
+ajoin komennon db_nmap -A -p0- <kohde>.
 
+
+<img width="680" alt="1" src="https://github.com/AkiAleksi/h3/assets/112399816/67fc95ec-fafb-427c-9389-c4712921652f">
+
+
+
+<img width="655" alt="2" src="https://github.com/AkiAleksi/h3/assets/112399816/fd40d87f-350e-40c7-882b-2c1e3ad567d1">
+
+
+
+<img width="663" alt="3" src="https://github.com/AkiAleksi/h3/assets/112399816/564427b6-213e-4e13-9893-aadb5f7fbadd">
+
+Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy palvelutiedot, käyttöjärjestelmätiedot ja versiotiedot.
+
+f.)
 
