@@ -115,7 +115,12 @@ Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy myös palvelutiedo
 Avasin msfconsolin. Syötin search vsftpd. use 1, set RHOSTS <kohde>, exploit.
 
 Toisen tietokoneen shell auki.
+
+
+
 <img width="658" alt="Screenshot 2023-11-10 at 14 57 07" src="https://github.com/AkiAleksi/h3/assets/112399816/368d5e17-8411-4765-813d-77f1788dfad7">
+
+
 
 Lopuksi ajoin id. Näkyy root.
 
