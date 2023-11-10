@@ -1,5 +1,5 @@
 # h3
-8.11.2023 klo 9:48
+Tehtävien teko alkaa 8.11.2023 klo 9:48
 
 # x
 
@@ -33,11 +33,11 @@ Minulla oli jo valmiiksi Kali Linux asennettuna virtuaalikoneeseen.
 # b.)
 
 Asensin metasploitable 2 virtuaalikoneeseen.
-Ohjeet: https://www.geeksforgeeks.org/how-to-install-metasploitable-2-in-virtualbox/
+Seurasin näitä ohjeita: https://www.geeksforgeeks.org/how-to-install-metasploitable-2-in-virtualbox/
 
 <img width="785" alt="Screenshot 2023-11-07 at 12 57 11" src="https://github.com/AkiAleksi/h3/assets/112399816/bbd7ab80-b2d8-494b-b052-0d9b4bb34ae6">
 
-8.11.2023 klo 10:30
+Tehtävien teko sessio päättyi 8.11.2023 klo 10:30. Tehtävien teko jatkuu 9.11.2023 klo 9:30.
 
 # c.)
 
@@ -72,6 +72,9 @@ Ajoin komennon ping www.google.com. Internet yhteys katkeaa
 
 <img width="226" alt="komento 2" src="https://github.com/AkiAleksi/h3/assets/112399816/8a6a7283-3cc8-45c8-922e-e5e167822d87">
 
+Tehtävien teko sessio päättyi 9.11.2023 klo 10:15. 
+Tehtävien teko jatkuu 10.11.2023 klo 11:00.
+
 d.)
 
 Ensin ajoin msfbd init komennon, jotta tulee database.
@@ -104,16 +107,16 @@ ajoin komennon db_nmap -A -p0- <kohde>.
 
 <img width="663" alt="3" src="https://github.com/AkiAleksi/h3/assets/112399816/564427b6-213e-4e13-9893-aadb5f7fbadd">
 
-Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy palvelutiedot, käyttöjärjestelmätiedot ja versiotiedot.
+Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy myös palvelutiedot, käyttöjärjestelmätiedot ja versiotiedot.
 
 f.)
 
 Avasin msfconsolin. Syötin search vsftpd. use 1, set RHOSTS <kohde>, exploit.
-Lopuksi ajoin id.
+
 
 <img width="658" alt="Screenshot 2023-11-10 at 14 57 07" src="https://github.com/AkiAleksi/h3/assets/112399816/368d5e17-8411-4765-813d-77f1788dfad7">
 
-
+Lopuksi ajoin id. Näkyy root.
 
 <img width="281" alt="Screenshot 2023-11-10 at 15 03 15" src="https://github.com/AkiAleksi/h3/assets/112399816/a380efcc-d88d-402a-8592-a23e48a34701">
 
@@ -149,7 +152,7 @@ Python skripti, joka pyrkii aiheuttamaan palvelunestohyökkäyksen OpenPLC WebSe
 
 i.)
 
-Ensin ajoin komennon searchsploit -u. Päivitin.
+Ensin ajoin komennon searchsploit -u. Päivitin siis.
 
 Sen jälkeen nmappasin ip-osoitteen.
 
@@ -171,20 +174,22 @@ Aja komento nikto -h <kohde>
 <img width="497" alt="Screenshot 2023-11-10 at 17 07 51" src="https://github.com/AkiAleksi/h3/assets/112399816/2460b499-6dd0-4434-8023-7cae45d76fd9">
 
 Skannauksessa näkyy, että Apache mod_negotiation on käytössä MultiViews:lla, mikä mahdollistaa tiedostonimien helpon bruteforcen.
+Bruteforce tarkoittaa menetelmää, jossa kokeillaan systemaattisesti ja peräkkäin kaikkia vaihtoehtoja kunnes oikea vastaus löytyy.
 
 k.)
 
 Tehtävän anto oli hieman epäselvä. Päätin perehtyä tarkemmin meterpreteriin.
 Käytin sitä aikaisemmassa tehtävässä, mutta en tarkemmin pohtinut mikä se on.
 
-Meterpreter on Metasploit Frameworkin osa, joka tarjoaa tehokkaan, joustavan ja modulaarisen tietokonehyökkäyksen työkalun. Metasploit Framework on avoimen lähdekoodin työkalupaketti, joka tarjoaa tietoturva-ammattilaisille ja tutkijoille keinoja testata tietokonejärjestelmien haavoittuvuuksia ja suorittaa erilaisia hyökkäyksiä.
+Meterpreter on Metasploit Frameworkin osa. Se tarjoaa tehokkaan, joustavan sekä modulaarisen tietokonehyökkäyksen työkalun.
+Metasploit Framework on avoimen lähdekoodin työkalupaketti.
+Se tarjoaa tietoturva-ammattilaisille ja tutkijoille keinoja testata tietokonejärjestelmien haavoittuvuuksia ja suorittaa erilaisia hyökkäyksiä.
 
-Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään. Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perinteisillä verkon valvontatyökaluilla.
+Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
+Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perinteisillä verkon valvontatyökaluilla.
 
-Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. Tässä on joitakin eroja tavallisen istunnon ja Meterpreter-session välillä:
+Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. 
+Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurattavissa. Meterpreter on taas suunniteltu olemaan huomaamaton.
 
-Huomaamattomuus:
 
-Tavallinen istunto: Perinteiset istunnot voivat olla helposti havaittavissa ja seurattavissa.
-Meterpreter-sessio: Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
 
