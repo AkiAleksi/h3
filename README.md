@@ -138,3 +138,6 @@ searchsploit vsftpd 2.3.4
 Tämä viittaa siihen, että vsftpd-version 2.3.4:ssä voi olla tietoturva-aukko, ja Python-skriptiä tunnuksella 49757.py voi käyttää hyväksi etäältä Unix-pohjaisessa järjestelmässä.
 
 j.)
+Komento nikto -h <kohde>
+
+<img width="497" alt="Screenshot 2023-11-10 at 17 07 51" src="https://github.com/AkiAleksi/h3/assets/112399816/2460b499-6dd0-4434-8023-7cae45d76fd9">
