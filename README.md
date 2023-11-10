@@ -122,3 +122,19 @@ Python skripti, joka pyrkii aiheuttamaan palvelunestohyökkäyksen OpenPLC WebSe
 <img width="969" alt="Screenshot 2023-11-10 at 15 59 41" src="https://github.com/AkiAleksi/h3/assets/112399816/21b4e8ad-8135-4484-b956-e60505d8b2b8">
 
 <img width="1007" alt="Screenshot 2023-11-10 at 16 01 49" src="https://github.com/AkiAleksi/h3/assets/112399816/2efabbf4-c107-4050-8e38-be461c81dfae">
+
+i.)
+
+Ensin ajoin komennon searchsploit -u. Päivitin.
+
+Sen jälkeen nmappasin ip-osoitteen.
+
+<img width="454" alt="xddd" src="https://github.com/AkiAleksi/h3/assets/112399816/cf7b0dbb-5d51-4498-b083-cacccdc5fecb">
+
+searchsploit vsftpd 2.3.4
+
+<img width="372" alt="exploit" src="https://github.com/AkiAleksi/h3/assets/112399816/f3cb23dc-4328-4b7a-aca7-64501601740d">
+
+Tämä viittaa siihen, että vsftpd-version 2.3.4:ssä voi olla tietoturva-aukko, ja Python-skriptiä tunnuksella 49757.py voi käyttää hyväksi etäältä Unix-pohjaisessa järjestelmässä.
+
+j.)
