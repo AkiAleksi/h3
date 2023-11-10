@@ -192,18 +192,18 @@ Skannauksessa näkyy, että Apache mod_negotiation on käytössä MultiViews:lla
 Bruteforce tarkoittaa menetelmää, jossa kokeillaan systemaattisesti ja peräkkäin kaikkia vaihtoehtoja kunnes oikea vastaus löytyy.
 
 # k.)
+Lähde: https://doubleoctopus.com/security-wiki/threats-and-tools/meterpreter/#:~:text=does%20Meterpreter%20work%3F-,Meterpreter%20is%20a%20Metasploit%20attack%20payload%20that%20provides%20an%20interactive,using%20in%2Dmemory%20DLL%20injection.
 
 Tehtävän anto oli hieman epäselvä. Päätin perehtyä tarkemmin meterpreteriin.
 Käytin sitä aikaisemmassa tehtävässä, mutta en tarkemmin pohtinut mikä se on.
 
 Meterpreter on Metasploit Frameworkin osa. Se tarjoaa tehokkaan, joustavan sekä modulaarisen tietokonehyökkäyksen työkalun.
-Metasploit Framework on avoimen lähdekoodin työkalupaketti.
-Se tarjoaa tietoturva-ammattilaisille ja tutkijoille keinoja testata tietokonejärjestelmien haavoittuvuuksia ja suorittaa erilaisia hyökkäyksiä.
-
 Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
 Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perinteisillä verkon valvontatyökaluilla.
-
-Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. 
+Kun Metasploit-hyökkäys on onnistunut ja Meterpreter-kuorma on käynnistetty kohdekoneella.
+Se muodostaa sessioyhteyden, joka mahdollistaa hyökkääjälle laajan hallinnan kohteena olevasta järjestelmästä.
+Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, 
+joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. 
 Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurattavissa. Meterpreter on taas suunniteltu olemaan huomaamaton.
 
 <img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
