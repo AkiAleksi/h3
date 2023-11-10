@@ -80,17 +80,18 @@ d.)
 Ensin ajoin msfbd init komennon, jotta tulee database.
 Sen jälkeen ajoin komennon msfconsole.
 Sitten ajoin db_nmap -sn <kohde>
+Näkyy, että metasploitable on päällä.
 
 <img width="491" alt="-sn" src="https://github.com/AkiAleksi/h3/assets/112399816/5a942437-e64f-464e-b9bb-65c8f597abce">
 
-Näkyy, että metasploitable on päällä.
 
+Katsoin selaimesta.
 
 <img width="906" alt="metasploitable" src="https://github.com/AkiAleksi/h3/assets/112399816/b9171664-6c98-4e9a-8d49-61d5b96b0fa7">
 
 
 
-Katsoin selaimesta.
+
 
 e.)
 
