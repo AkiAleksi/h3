@@ -221,6 +221,10 @@ Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurat
 <img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
 
 
+
+Tehtävien teko päättyi 10.11.2023 klo: 21:56
+
+
 # Lähteet
 
  https://www.youtube.com/watch?v=Ul9WmUY49oM
