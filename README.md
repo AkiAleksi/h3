@@ -122,6 +122,14 @@ Toisen tietokoneen shell auki.
 
 
 
+
+
+
+
+
+
+
+
 Lopuksi ajoin id. Näkyy root.
 
 <img width="281" alt="Screenshot 2023-11-10 at 15 03 15" src="https://github.com/AkiAleksi/h3/assets/112399816/a380efcc-d88d-402a-8592-a23e48a34701">
