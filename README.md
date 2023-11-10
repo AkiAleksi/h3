@@ -75,7 +75,7 @@ Ajoin komennon ping www.google.com. Internet yhteys katkeaa
 Tehtävien teko sessio päättyi 9.11.2023 klo 10:15. 
 Tehtävien teko jatkuu 10.11.2023 klo 11:00.
 
-d.)
+# d.)
 
 Ensin ajoin msfbd init komennon, jotta tulee database.
 Sen jälkeen ajoin komennon msfconsole.
@@ -93,7 +93,7 @@ Katsoin selaimesta.
 
 
 
-e.)
+# e.)
 
 ajoin komennon db_nmap -A -p0- <kohde>.
 
@@ -110,7 +110,7 @@ ajoin komennon db_nmap -A -p0- <kohde>.
 
 Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy myös palvelutiedot, käyttöjärjestelmätiedot ja versiotiedot.
 
-f.)
+# f.)
 
 Avasin msfconsolin. Syötin search vsftpd. use 1, set RHOSTS <kohde>, exploit.
 
@@ -122,7 +122,7 @@ Lopuksi ajoin id. Näkyy root.
 <img width="281" alt="Screenshot 2023-11-10 at 15 03 15" src="https://github.com/AkiAleksi/h3/assets/112399816/a380efcc-d88d-402a-8592-a23e48a34701">
 
 
-g.)
+# g.)
 
 Ohjeet: https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
 
@@ -139,7 +139,7 @@ Päivitin session meterpreter sessioksi.
 
 <img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
 
-h.)
+# h.)
 
 ExploitDB on tietokanta, joka sisältää tietoja tietoturva-aukoista, haavoittuvuuksista
 ja niiden hyödyntämiskeinoista.
@@ -152,7 +152,7 @@ Python skripti, joka pyrkii aiheuttamaan palvelunestohyökkäyksen OpenPLC WebSe
 
 <img width="1007" alt="Screenshot 2023-11-10 at 16 01 49" src="https://github.com/AkiAleksi/h3/assets/112399816/2efabbf4-c107-4050-8e38-be461c81dfae">
 
-i.)
+# i.)
 
 Ensin ajoin komennon searchsploit -u. Päivitin siis.
 
@@ -166,7 +166,7 @@ searchsploit vsftpd 2.3.4
 
 Tämä viittaa siihen, että vsftpd-version 2.3.4:ssä voi olla tietoturva-aukko, ja Python-skriptiä tunnuksella 49757.py voi käyttää hyväksi etäältä Unix-pohjaisessa järjestelmässä.
 
-j.)
+# j.)
 
 Nikto on tietoturvatrakastusohjelma. Se on suunniteltu palvelinten ja verkkosivustojen
 haavoittuvuuksien havaitsemiseen.
@@ -178,7 +178,7 @@ Aja komento nikto -h <kohde>
 Skannauksessa näkyy, että Apache mod_negotiation on käytössä MultiViews:lla, mikä mahdollistaa tiedostonimien helpon bruteforcen.
 Bruteforce tarkoittaa menetelmää, jossa kokeillaan systemaattisesti ja peräkkäin kaikkia vaihtoehtoja kunnes oikea vastaus löytyy.
 
-k.)
+# k.)
 
 Tehtävän anto oli hieman epäselvä. Päätin perehtyä tarkemmin meterpreteriin.
 Käytin sitä aikaisemmassa tehtävässä, mutta en tarkemmin pohtinut mikä se on.
