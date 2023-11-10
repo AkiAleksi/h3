@@ -160,7 +160,7 @@ sessions -l,
 show options,
 set SESSION 1,
 run,
-session -1 2
+session -i 2
 
 
 
