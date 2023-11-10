@@ -5,7 +5,7 @@ Tehtävien teko alkaa 8.11.2023 klo 9:48
 
 Velu 2022: Mastering Kali Linux for Advanced Penetration Testing 4ed: Chapter 10 - Exploitation: kappaleet "The Metasploit Framework", "The exploitation of targets using Metasploit" ja "Using public exploits". Eli ei enää kappaletta "Developing a Windows exploit" ja siitä eteenpäin.
 
-Tiivistelmä:
+# Tiivistelmä:
 
  -Metasploit Framework (MSF) on avoimen lähdekoodin työkalu. Se on
  suunniteltu helpottamaan tunkeutumistestauksen suorittamista.
@@ -22,13 +22,13 @@ Tiivistelmä:
  -jokaisella hyökkääjällä on aina silmänsä auki etsiessään julkisia hyödyntämismenetelmiä 
   ja muokkaamassa niitä tarpeidensa mukaisesti. 
 
-  Vapaavalintainen läpikävely:
+  # Vapaavalintainen läpikävely:
 
   Katsoin: https://www.youtube.com/watch?v=Ul9WmUY49oM
 
   
 
-  Nyrkeilysäkki. Eli piti etsiä kotitehtävä raportti. 
+  # Nyrkeilysäkki. Eli piti etsiä kotitehtävä raportti. 
   Jossa Kali ja Metasploitable on asennettu samaan verkkooon VirtualBoxiin,
   sekä testaamalla osoitettu, että koneet on saatu irti Internetistä.
 
