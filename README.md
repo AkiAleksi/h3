@@ -114,7 +114,7 @@ f.)
 
 Avasin msfconsolin. Syötin search vsftpd. use 1, set RHOSTS <kohde>, exploit.
 
-
+Toisen tietokoneen shell auki.
 <img width="658" alt="Screenshot 2023-11-10 at 14 57 07" src="https://github.com/AkiAleksi/h3/assets/112399816/368d5e17-8411-4765-813d-77f1788dfad7">
 
 Lopuksi ajoin id. Näkyy root.
@@ -123,6 +123,7 @@ Lopuksi ajoin id. Näkyy root.
 
 
 g.)
+
 Ohjeet: https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
 
 Päivitin session meterpreter sessioksi.
@@ -192,5 +193,5 @@ Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perint
 Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. 
 Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurattavissa. Meterpreter on taas suunniteltu olemaan huomaamaton.
 
-
+<img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
 
