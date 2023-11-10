@@ -109,3 +109,16 @@ Päivitin session meterpreter sessioksi.
 
 
 <img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
+
+h.)
+
+ExploitDB on tietokanta, joka sisältää tietoja tietoturva-aukoista, haavoittuvuuksista
+ja niiden hyödyntämiskeinoista.
+Löysin tämän hyökkäyksen sieltä.
+https://www.exploit-db.com/exploits/51746
+
+Python skripti, joka pyrkii aiheuttamaan palvelunestohyökkäyksen OpenPLC WebServerin kolmanteen versioon. Kyseessä on siis Denial of Service (DoS) hyökkäys.
+
+<img width="969" alt="Screenshot 2023-11-10 at 15 59 41" src="https://github.com/AkiAleksi/h3/assets/112399816/21b4e8ad-8135-4484-b956-e60505d8b2b8">
+
+<img width="1007" alt="Screenshot 2023-11-10 at 16 01 49" src="https://github.com/AkiAleksi/h3/assets/112399816/2efabbf4-c107-4050-8e38-be461c81dfae">
