@@ -95,6 +95,9 @@ Lopuksi ajoin id.
 
 
 g.)
+Ohjeet: https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
+
+Päivitin session meterpreter sessioksi.
 
 
 
