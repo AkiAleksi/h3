@@ -221,3 +221,15 @@ Esimerkiksi perinteiset istunnot saattavat olla helposti havaittavissa ja seurat
 
 <img width="665" alt="meterpreter" src="https://github.com/AkiAleksi/h3/assets/112399816/e63ec3a1-885a-4611-b7dd-16a8e35fa4dd">
 
+
+# Lähteet
+
+https://www.youtube.com/watch?v=Ul9WmUY49oM
+ https://kulonpaa.com/?p=87
+ https://www.geeksforgeeks.org/how-to-install-metasploitable-2-in-virtualbox/
+ https://infosecwriteups.com/metasploit-upgrade-normal-shell-to-meterpreter-shell-2f09be895646
+ https://www.exploit-db.com/exploits/51746
+ https://doubleoctopus.com/security-wiki/threats-and-tools/meterpreter/#:~:text=does%20Meterpreter%20work%3F-,Meterpreter%20is%20a%20Metasploit%20attack%20payload%20that%20provides%20an%20interactive,using%20in%2Dmemory%20DLL%20injection.
+ 
+ 
+
