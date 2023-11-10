@@ -14,6 +14,8 @@ Tiivistelmä:
 
  -Käyttää modulaarista lähestymistapaa helpottamaan 
  hyökkäyksiä hyödyntämisvaiheessa kyberhyökkäysten ketjumenetelmässä.
+ 
+ -Frameworkki voidaan jakaa kolmeen pääosaan: Libraries, Interfaces ja Modules.
 
  -MSF (Metasploit Framework) on yhtä tehokas sekä käyttöjärjestelmän haavoittuvuuksia että kolmannen osapuolen sovelluksia vastaan. 
 
@@ -169,3 +171,20 @@ Aja komento nikto -h <kohde>
 <img width="497" alt="Screenshot 2023-11-10 at 17 07 51" src="https://github.com/AkiAleksi/h3/assets/112399816/2460b499-6dd0-4434-8023-7cae45d76fd9">
 
 Skannauksessa näkyy, että Apache mod_negotiation on käytössä MultiViews:lla, mikä mahdollistaa tiedostonimien helpon bruteforcen.
+
+k.)
+
+Tehtävän anto oli hieman epäselvä. Päätin perehtyä tarkemmin meterpreteriin.
+Käytin sitä aikaisemmassa tehtävässä, mutta en tarkemmin pohtinut mikä se on.
+
+Meterpreter on Metasploit Frameworkin osa, joka tarjoaa tehokkaan, joustavan ja modulaarisen tietokonehyökkäyksen työkalun. Metasploit Framework on avoimen lähdekoodin työkalupaketti, joka tarjoaa tietoturva-ammattilaisille ja tutkijoille keinoja testata tietokonejärjestelmien haavoittuvuuksia ja suorittaa erilaisia hyökkäyksiä.
+
+Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään. Se tukee myös kryptattua liikennettä, mikä tekee sen vaikeaksi havaita perinteisillä verkon valvontatyökaluilla.
+
+Meterpreter-sessio eroaa tavallisesta tietokoneen istunnosta monin tavoin. Meterpreter on Metasploit Frameworkin erityinen payload, joka tarjoaa kehittyneempiä työkaluja ja ominaisuuksia hyökkääjälle, kun hän on saanut pääsyn uhrin järjestelmään. Tässä on joitakin eroja tavallisen istunnon ja Meterpreter-session välillä:
+
+Huomaamattomuus:
+
+Tavallinen istunto: Perinteiset istunnot voivat olla helposti havaittavissa ja seurattavissa.
+Meterpreter-sessio: Meterpreter on suunniteltu olemaan huomaamaton ja jättämään mahdollisimman vähän jälkiä järjestelmään.
+
