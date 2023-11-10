@@ -1,5 +1,27 @@
 # h3
 8.11.2023 klo 9:48
+
+# x
+
+Velu 2022: Mastering Kali Linux for Advanced Penetration Testing 4ed: Chapter 10 - Exploitation: kappaleet "The Metasploit Framework", "The exploitation of targets using Metasploit" ja "Using public exploits". Eli ei enää kappaletta "Developing a Windows exploit" ja siitä eteenpäin.
+
+Tiivistelmä:
+
+ -Metasploit Framework (MSF) on avoimen lähdekoodin työkalu. Se on
+ suunniteltu helpottamaan tunkeutumistestauksen suorittamista.
+
+ -MSF on kirjoitettu Ruby-ohjelmointikielellä. 
+
+ -Käyttää modulaarista lähestymistapaa helpottamaan 
+ hyökkäyksiä hyödyntämisvaiheessa kyberhyökkäysten ketjumenetelmässä.
+
+ -MSF (Metasploit Framework) on yhtä tehokas sekä käyttöjärjestelmän haavoittuvuuksia että kolmannen osapuolen sovelluksia vastaan. 
+
+ -jokaisella hyökkääjällä on aina silmänsä auki etsiessään julkisia hyödyntämismenetelmiä 
+  ja muokkaamassa niitä tarpeidensa mukaisesti. 
+
+  
+  
 # a.)
 
 Minulla oli jo valmiiksi Kali Linux asennettuna virtuaalikoneeseen.
