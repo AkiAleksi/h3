@@ -84,3 +84,15 @@ Skannauksessa näkyy kaikki mahdolliset portit. Siinä näkyy palvelutiedot, kä
 
 f.)
 
+Avasin msfconsolin. Syötin search vsftpd. use 1, set RHOSTS <kohde>, exploit.
+Lopuksi ajoin id.
+
+<img width="658" alt="Screenshot 2023-11-10 at 14 57 07" src="https://github.com/AkiAleksi/h3/assets/112399816/368d5e17-8411-4765-813d-77f1788dfad7">
+
+
+<img width="591" alt="Screenshot 2023-11-10 at 14 59 29" src="https://github.com/AkiAleksi/h3/assets/112399816/09da5a8e-20f0-40e7-88a4-92885d2da620">
+
+<img width="281" alt="Screenshot 2023-11-10 at 15 03 15" src="https://github.com/AkiAleksi/h3/assets/112399816/a380efcc-d88d-402a-8592-a23e48a34701">
+
+
+
